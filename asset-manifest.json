@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/path-vision/static/css/main.d687138b.css",
+    "main.js": "/path-vision/static/js/main.c0f7485a.js",
+    "index.html": "/path-vision/index.html",
+    "main.d687138b.css.map": "/path-vision/static/css/main.d687138b.css.map",
+    "main.c0f7485a.js.map": "/path-vision/static/js/main.c0f7485a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d687138b.css",
+    "static/js/main.c0f7485a.js"
+  ]
+}
