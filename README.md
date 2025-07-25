@@ -149,9 +149,6 @@ Check for any syntax errors in the code.
 - Try reducing grid size on older devices
 - Use faster animation speed settings
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
